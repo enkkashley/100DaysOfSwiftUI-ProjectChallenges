@@ -3,7 +3,7 @@ This app allows you to convert values from one unit length to the other. For exa
 
 ## Screenshot
 <p align="center">
-    <img src="screenshot_.png" alt="app screenshot" width="40%">
+    <img src="screenshot.png" alt="app screenshot" width="40%">
 </p>
 
 ## NB
